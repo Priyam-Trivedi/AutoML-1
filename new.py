@@ -940,7 +940,7 @@ def app():
 
 
 
-    st.markdown("<h4 style='text-align: center; color: #3f3f44'> @Author: Priyam Trivedi/Sravanthi Shoroff/Prateek Singh</h4>", unsafe_allow_html=True)
+    st.markdown("<h4 style='text-align: center; color: #3f3f44'> @Author: Priyam Trivedi/Sravanthi Shoroff</h4>", unsafe_allow_html=True)
     st.markdown("<h4 style='text-align: center; color: #3f3f44'> @2022</h4>",unsafe_allow_html=True)
 
 
